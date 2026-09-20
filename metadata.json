@@ -1,0 +1,6 @@
+{
+  "name": "Aryan's Birthday 🎂",
+  "description": "An elegant, cinematic, and interactive birthday celebration experience dedicated to Aryan Saleem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
